@@ -2,8 +2,6 @@
 <img src="https://github.com/jaeyoung051/jaeyoung051/blob/main/banner.png" width="100%">
 </p>
 
-<h1 align="center">Seo Jaeyoung!</h1>
-
 <p align="center">
 백엔드 중심 풀스택 개발자를 목표로 공부하고 있습니다.<br>
 🌱 Spring Boot 기반 REST API 설계와 백엔드 개발 경험을 쌓고 있습니다.<br>
