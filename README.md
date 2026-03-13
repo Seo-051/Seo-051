@@ -8,10 +8,12 @@
 </p>
 
 <p align="center">
-
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingom5437@naver.com)
-[![Velog](https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seojaeyeong-051/series)
-
+<a href="mailto:kingom5437@naver.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://velog.io/@seojaeyeong-051/series">
+<img src="https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -19,7 +21,7 @@
 ## 🛠 Tech Stack
 
 ### Backend
-<p>
+<p align="center">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
@@ -29,14 +31,14 @@
 </p>
 
 ### Frontend
-<p>
+<p align="center">
   
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)  
 
 </p>
 
 ### Database
-<p>
+<p align="center">
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)  
