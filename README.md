@@ -133,8 +133,6 @@ https://github.com/RoomShareProject/sharestay
 
 </details>
 
----
-
 <details>
 <summary>📋 Backend MVP</summary>
 
