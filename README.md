@@ -6,6 +6,7 @@
 🔍 문제의 원인을 분석하고 해결하는 과정과 로직 설계를 좋아합니다.<br>
 🤖 모바일 로보틱스 대회 경험을 통해 문제 해결 능력을 키웠습니다.
 </p>  
+
 <p align="center">
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingom5437@naver.com)
@@ -19,27 +20,27 @@
 
 ### Backend
 <p>
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
 </p>
 
 ### Frontend
 <p>
+  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)  
+
 </p>
 
 ### Database
 <p>
+  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)  
-</p>
 
-### DevOps
-<p>
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge)  
 </p>
 
 ### Robotics
