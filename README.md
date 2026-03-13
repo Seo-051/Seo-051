@@ -1,4 +1,4 @@
-<h1 align="center">Jaeyoung Seo!</h1>
+<h1 align="center">Seo Jaeyoung!</h1>
 
 백엔드 중심 풀스택 개발자를 목표로 공부하고 있습니다.
 
