@@ -8,10 +8,12 @@ Backend Developer | Robotics Background
 
 ## 🚀 About Me
 
-- 🔧 Backend Developer (Spring Boot)
 - 🤖 Mobile Robotics Competition Silver Medalist
-- 🧠 Interested in Robotics Software & Backend Systems
+- 💻 Backend Developer (Spring Boot)
+- 🔍 Interested in Robotics Software & Backend Systems
 - 📍 Korea
+
+I enjoy solving problems through logical thinking and improving system performance through iterative testing and optimization.
 
 ---
 
@@ -46,32 +48,50 @@ Backend Developer | Robotics Background
 ## 📂 Projects
 
 ### 🤖 Mobile Robotics Competition
-AVR 기반 모바일 로봇 프로젝트  
-전국 기능경기대회 은메달
 
-👉 https://github.com/Seo-051/MobileRobotics-Portfolio
+AVR 기반 모바일 로봇 프로젝트  
+3 Omni Wheel Robot + Sensor Navigation
+
+🏅 **2020 전국 기능경기대회 모바일 로보틱스 은메달**
+
+🔗  
+https://github.com/jaeyoung051/MobileRobotics-Portfolio
 
 ---
 
 ### 🏠 ShareStay
+
 룸 쉐어링 플랫폼 팀 프로젝트  
+
 Spring Boot + React 기반 웹 서비스
+
+주요 기능
+- OAuth2 로그인
+- JWT 인증
+- 찜 / 좋아요
+- 사용자 밴 로직
 
 ---
 
 ### 📋 Backend MVP
+
 REST API 기반 게시판 개인 프로젝트
+
+- Spring Boot
+- JPA
+- REST API
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-051&show_icons=true&theme=radical)
+![Jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung051&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-051&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung051&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Seo-051
+GitHub  
+https://github.com/jaeyoung051
